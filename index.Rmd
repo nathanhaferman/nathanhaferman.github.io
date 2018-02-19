@@ -2,8 +2,10 @@
 title: "My Website"
 ---
 
-Hello, Website!
+Hello, Website! This is I, Nathan Haferman, figuring out how to do website stuff through r studio and git hub. Thank you for your patience!
 
+
+Here we have a plot. You can modify this plot in thousands of different ways but as for now, we are going to simply have this bad boy. 
 ```{r}
 
 x <- 1:10
@@ -11,3 +13,13 @@ y <- 1:10
 plot(x,y)
 
 ```
+
+#Another thing you can do is make headers!!! 
+##Or smaller headers
+###Or smaller smaller headers
+#####Or you can go very small
+
+You can also do **Bold** words in this. But if you're not feeling bold, how about you try some *italics* .
+
+####Link things!
+You want to go to Facebook? Well how about you click this [word](http://facebook.com)
