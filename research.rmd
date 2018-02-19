@@ -1,5 +1,11 @@
 ---
-title: "research"
+title: "Links that are Useful!"
 ---
 
-is this research?
+Where all confusion ensues [github](http://github.com).
+
+Where I am learning how to do all this coding stuff: [datacamp](http://datacamp.com)
+
+These above resources are fun but i usually put them off to procrastinate on this [website](http://youtube.com)
+
+Ok, joking aside. Making this website was a lot easier using these [cheatseats](https://rmarkdown.rstudio.com/authoring_basics.html). 

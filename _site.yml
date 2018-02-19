@@ -5,9 +5,9 @@ navbar:
   left:
     - text: "The Website Experiment!"
       href: index.html
-    - text: "About"
+    - text: "About Me"
       href: about.html
-    - text: "What i am Interested in"  
+    - text: "Links!!"  
       href: research.html
 output:
   html_document:
