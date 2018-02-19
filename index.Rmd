@@ -19,6 +19,11 @@ plot(x,y)
 ###Or smaller smaller headers
 #####Or you can go very small
 
+<<<<<<< HEAD
+
+You can also do **Bold** words in this. But if you're not feeling bold, how about you try some *italics* .
+
+
 
 You can also do **Bold** words in this. But if you're not feeling bold, how about you try some *italics* .
 
