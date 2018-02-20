@@ -22,6 +22,11 @@ plot(x,y)
 
 You can also do **Bold** words in this. But if you're not feeling bold, how about you try some *italics* .
 
+#Sometimes you will so desire to include a pic
+###Look at this one of my dog
+<figure align = "middle">
+<img src = "IMG_3348.JPG" style = "height:200px;">
+
 
 ####Link things!
 You want to go to Facebook? Well how about you click this [word](http://facebook.com)
